@@ -145,7 +145,7 @@
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\ContactManagerContext.cs" />
-    <Compile Include="Models\Contacts.cs" />
+    <Compile Include="Models\Contact.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ValidateHttpAntiForgeryTokenAttribute.cs" />
   </ItemGroup>
